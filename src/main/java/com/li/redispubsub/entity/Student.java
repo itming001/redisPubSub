@@ -7,7 +7,7 @@ public class Student {
     /**
      * 姓名
      */
-    private String name;
+    private String sdsa;
     /**
      * 爱好
      */
@@ -15,15 +15,15 @@ public class Student {
     /**
      * 测试3
      */
-    private String sss;
+    private String casf;
     /**
      * 测试3
      */
     private String pjone;
     /**
-     * 地址
+     * 测试3
      */
-    private String address;
+    private String woshixiao;
     /**
      * 测试001
      */
@@ -31,7 +31,7 @@ public class Student {
     /**
      *增加性别字段
      */
-    private String sex;
+    private String ZXZ;
     /**
      * 王五
      */
