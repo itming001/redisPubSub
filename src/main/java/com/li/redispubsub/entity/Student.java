@@ -4,6 +4,11 @@ import lombok.Data;
 
 @Data
 public class Student {
+
+    /**
+     * 测试3
+     */
+    private String dashabi;
     /**
      * 姓名
      */
@@ -15,23 +20,15 @@ public class Student {
     /**
      * 测试3
      */
-    private String sss;
+    private String pjone;
     /**
      * 测试3
      */
-    private String pjone;
-    /**
-     * 地址
-     */
-    private String address;
+    private String pj666;
     /**
      * 测试001
      */
     private String test1;
-    /**
-     *增加性别字段
-     */
-    private String sex;
     /**
      * 王五
      */
