@@ -7,7 +7,7 @@ public class Student {
     /**
      * 姓名
      */
-    private String sdsa;
+    private String name;
     /**
      * 爱好
      */
@@ -24,6 +24,7 @@ public class Student {
      * 测试3
      */
     private String woshixiao;
+    private String pj666;
     /**
      * 测试001
      */
