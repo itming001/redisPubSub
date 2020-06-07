@@ -9,6 +9,10 @@ public class Student {
      */
     private String name;
     /**
+     * 爱好
+     */
+    private String hobby;
+    /**
      * 年龄
      */
     private Integer age;
