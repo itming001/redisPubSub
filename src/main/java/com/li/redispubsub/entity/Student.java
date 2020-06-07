@@ -13,9 +13,25 @@ public class Student {
      */
     private String hobby;
     /**
+     * 测试3
+     */
+    private String sss;
+    /**
+     * 测试3
+     */
+    private String pjone;
+    /**
      * 地址
      */
     private String address;
+    /**
+     * 测试001
+     */
+    private String test1;
+    /**
+     *增加性别字段
+     */
+    private String sex;
     /**
      * 年龄
      */
