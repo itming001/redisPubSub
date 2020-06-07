@@ -33,6 +33,10 @@ public class Student {
      */
     private String sex;
     /**
+     * 王五
+     */
+    private String wangwu;
+    /**
      * 年龄
      */
     private Integer age;
