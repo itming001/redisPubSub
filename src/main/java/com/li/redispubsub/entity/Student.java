@@ -41,4 +41,6 @@ public class Student {
      * 年龄
      */
     private Integer age;
+
+    private String test1;
 }
