@@ -42,7 +42,6 @@ public class Student {
      */
     private Integer age;
 
-    private String test1;
-	
+
 	private String test2;
 }

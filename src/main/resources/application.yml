@@ -1,14 +1,9 @@
-spring:
-  redis:
-    database: 5   # Redis���ݿ�������Ĭ��Ϊ0��
-    host: localhost  # Redis��������ַ
-    port: 6379  # Redis���������Ӷ˿�
-    password:    # Redis�������������루Ĭ��Ϊ�գ�
-    timeout: 0  # ���ӳ�ʱʱ�䣨���룩
-    jedis:
-      pool:
-        max-idle: -1
-        max-wait:
-        min-idle: 0
 server:
   port: 8989
+
+spring:
+  redis:
+    port: 6379
+    password:
+    database: 5
+    host: localhost
