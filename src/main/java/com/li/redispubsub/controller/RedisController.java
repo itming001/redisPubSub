@@ -19,6 +19,7 @@ public class RedisController {
      */
     @GetMapping("/testRedis")
     public void testRedis(){
+        redisTemplate.opsForValue().set("student:name","张三");
         //发送数据信息
         redisTemplate.convertAndSend("hello","world!");
 
